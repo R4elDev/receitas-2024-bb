@@ -1,0 +1,39 @@
+body {
+    font-family: monospace;
+  }
+  #Titulo {
+    font-size: 50px;
+    text-align: center;
+    background-color: yellow;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 60px;
+  }
+  
+  #maizena {
+    margin: auto;
+    margin-top: 16px;
+    display: block;
+    max-width: 500px;
+    border: 2px solid black;
+    border-radius: 30%;
+  }
+  
+  ol {
+    font-size: 30px;
+  }
+  
+  ul {
+    font-size: 30px;
+  }
+  
+  #nome {
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+  
+  
+  h1 {
+    background-color: yellow;
+  }
