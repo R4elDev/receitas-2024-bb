@@ -1,4 +1,4 @@
-# Landing Page - Let's Go, Pikachu!
+# Pagina Informativa - Receita de Mingau
 
 ![](./imagens/mingau_tela.png)
 
